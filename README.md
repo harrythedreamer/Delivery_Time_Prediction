@@ -4,7 +4,7 @@
 
 This repository contains the code and resources for a Delivery Time Prediction project. The goal of this project is to develop a machine learning model that predicts the delivery time for orders based on various features and conditions.
 
-**Project Structure**
+**Project Structure** (Delivery Time Prediction file)
 
 1. Data Cleaning
 2. Exploratory Data Analysis
