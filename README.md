@@ -9,12 +9,12 @@ This repository contains the code and resources for a Delivery Time Prediction p
 1. Data Cleaning
 2. Exploratory Data Analysis
 3. Working with Pycaret
-   Finding the best model with Pycaret
-   Making prediction with Pycaret
-4. Predicting with LightGBM Model (Manually Built)
-   Preprocessing and Feature Engineering: train data and predict data
-   Building and Fine-Tuning LightGBM Model
-   Making prediction
+- Finding the best model with Pycaret
+- Making prediction with Pycaret
+5. Predicting with LightGBM Model (Manually Built)
+- Preprocessing and Feature Engineering: train data and predict data
+- Building and Fine-Tuning LightGBM Model
+- Making prediction
 
 **Dataset**
 
