@@ -7,12 +7,19 @@ This repository contains the code and resources for a Delivery Time Prediction p
 **Project Structure**
 
 _1. Data Cleaning
+
 2. Exploratory Data Analysis
+
 3. Working with Pycaret
+
 3.1 Finding the best model with Pycaret
+
 3.2 Making prediction with Pycaret
+
 4. Predicting with LightGBM Model (Manually Built)
+
 4.1 Building and Fine-Tuning LightGBM Model
+
 4.2 Making prediction_
 
 **Dataset**
