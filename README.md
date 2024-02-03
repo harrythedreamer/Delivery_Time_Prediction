@@ -18,5 +18,5 @@ This repository contains the code and resources for a Delivery Time Prediction p
 
 **Dataset**
 
-**train.csv** - the full dataset for training purpose
-**predict.csv** - new dataset for making prediction (withour the target column)
+- **train.csv** - the full dataset for training purpose
+- **predict.csv** - new dataset for making prediction (withour the target column)
